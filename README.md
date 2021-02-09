@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi! Here's Kr2
+
+An undergraduate student in Shanghai.
+
+Currently learning Computer Graphics.
+
+---
+
+**Introduction**: Ordinary.
+
+**Skills**: Likely nothing.
+
 
 <!--
 **kririae/kririae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
