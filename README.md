@@ -1,15 +1,22 @@
 ### Hi! Here's Kr2
 
-An undergraduate student in Shanghai.
+![krr](https://komarev.com/ghpvc/?username=kririae)
 
-Currently learning Computer Graphics.
+An undergraduate CS student in Shanghai.
+
+Currently learning CG and OS.
+
+Keen on the romance of core fields in CS.
 
 ---
 
-**Introduction**: Ordinary.
+**Introduction**: Progressing
 
-**Skills**: Likely nothing.
+**Skills**: A little knowledge about CG and OS.
 
+**Languages**: C/C++/Rust/Python ..
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kririae)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kririae/kririae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
