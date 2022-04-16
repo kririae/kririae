@@ -1,17 +1,9 @@
-### Hi! Here's Kr2
+### Hi! Here's krr👋
 
 ![krr](https://komarev.com/ghpvc/?username=kririae)
 
-An undergraduate CS student in Shanghai.
+I'm an undergraduate CS student in ShanghaiTech University.
 
-Currently learning CG and OS.
+I specialize in Computer Graphics, and I'm especially interested in *Rendering* related research fields.
 
-Keen on the romance of core fields in CS.
-
----
-
-**Introduction**: Progressing
-
-**Skills**: A little knowledge about CG and OS.
-
-**Languages**: C/C++/Rust/Python ..
+![Metrics](/github-metrics.svg)
