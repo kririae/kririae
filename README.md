@@ -5,5 +5,3 @@
 I'm an undergraduate CS student in ShanghaiTech University.
 
 I specialize in Computer Graphics, and I'm especially interested in *Rendering* related research fields.
-
-![Metrics](/github-metrics.svg)
