@@ -12,7 +12,9 @@
 
 ![](https://s2.loli.net/2024/08/08/SjVQnOmtAHiuz9K.png)
 
-> An image rendered by FLux, contains a modified Porsche 911 GT3 R model (original by [@marvluebke](https://blenderartists.org/t/free-porsche-gt3r-model/1273171)), with custom adjustments.
+> Two image views rendered by FLux, featuring a modified Porsche 911 GT3 R model. *(Model courtesy of [Marvin Lübke on BlenderArtists](https://blenderartists.org/t/free-porsche-gt3r-model/1273171))*
+>
+> Get the original images [here](https://s2.loli.net/2024/08/08/8KVJGDpQPfqvMTB.webp) and [here](https://s2.loli.net/2024/08/08/iVzUPMWAc3fyTgx.webp).
 </details>
 
 I'm a first-year graduate student at ShanghaiTech University.
