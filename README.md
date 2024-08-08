@@ -10,11 +10,9 @@
 <details>
 <summary>🎨 FLux - GPU Offline Renderer</summary>
 
-![](https://s2.loli.net/2024/08/05/esDVXIb7348hTzo.jpg)
+![](https://s2.loli.net/2024/08/08/SjVQnOmtAHiuz9K.png)
 
 > An image rendered by FLux, contains a modified Porsche 911 GT3 R model (original by [@marvluebke](https://blenderartists.org/t/free-porsche-gt3r-model/1273171)), with custom adjustments.
->
-> Get the full-size image [here](https://s2.loli.net/2024/08/05/OsgzU61tRXSAB8c.webp).
 </details>
 
 I'm a first-year graduate student at ShanghaiTech University.
