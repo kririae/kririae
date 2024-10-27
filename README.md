@@ -1,5 +1,7 @@
 ### Hi! I'm krr 👋
 
+![](https://www.gentoo.org/assets/img/badges/gentoo-badge3.svg)
+
 <details>
 <summary>🚀 AMBER - Multi-GPU Aerodynamics Simulator</summary>
   
