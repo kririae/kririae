@@ -19,6 +19,4 @@
 > Get the original images [here](https://s2.loli.net/2024/08/08/8KVJGDpQPfqvMTB.webp) and [here](https://s2.loli.net/2024/08/08/iVzUPMWAc3fyTgx.webp).
 </details>
 
-I'm a first-year graduate student at ShanghaiTech University.
-
-I'm especially interested in *Aerodynamics* and *Rendering* in and not limited to Computer Graphics' scope.
+I'm interested in *Aerodynamics* and *Graphics*.
