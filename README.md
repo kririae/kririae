@@ -5,10 +5,10 @@
 <details>
 <summary>🎨 FLux - A High-Throughput GPU Renderer</summary>
 
-![](https://file.yuyuko.cc/flux_teaser.png)
+<a href="https://file.yuyuko.cc/flux_teaser_raw.webp"> <img src="https://file.yuyuko.cc/flux_teaser.png" alt="FLux renderer teaser" width="100%"> </a>
 
 > Multi-view render of the many-light [BEEPLE Zero-Day](https://developer.nvidia.com/orca/beeple-zero-day) scene from NVIDIA ORCA, rendered with **FLux**:
-> a krr-maintained, high-throughput, Hydra-native GPU renderer built for robust and efficient USD/MaterialX-based production workflows.
+> a krr-developed, high-throughput, Hydra-native GPU renderer built for robust and efficient USD/MaterialX-based production workflows.
 </details>
 
 I'm interested in *Computer Graphics* and *High-Performance Computing*.
